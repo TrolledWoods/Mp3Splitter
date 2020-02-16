@@ -25,11 +25,3 @@ of timestamps for each song, like this;
 If you have any suggestions for more types
 of formatting, feel free to put up an issue for
 it.
-
-## Todo list:
-? = Probably won't do it, ! = Will definitely do it, . = Minor feature
-
-. Export some more functions into different files
-! Parse multiple types of TimeStamp - Song dictionaries.
-? Cover images
-? Allow downloading directly from youtube
